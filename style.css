@@ -37,10 +37,34 @@ body {
     margin: 70px 100px 100px 100px;
 }
 .part1 {
-    margin: 200px;
+    margin: 150px;
     text-align: center;
 }
 footer p {
     text-align: center;
 }
+.footerlink {
+    text-align: center;
+}
+.socailicon img {
+    width: 20px;
+}
+.footballicon,img {
+    width: 162px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
 
+@media only screen and (max-width:688px) {
+
+    
+}
+.added{
+    background-color: yellow;
+    padding: 05px;
+}
+.added:hover{
+    width: 100px;
+}
